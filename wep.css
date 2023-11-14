@@ -57,3 +57,25 @@
 .listlorem-item {
     margin:0 30px ;
 }
+
+@media only screen and (max-width: 1024px) {
+    .body-bottom{
+        display: inline-block;
+        margin-left: 0;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .body-bottom{
+        display: inline-block;
+        text-align: left;
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    
+}
+
+@media only screen and (max-width: 480px) {
+    
+}
